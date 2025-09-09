@@ -10,7 +10,7 @@ I like to keep learning and coding a **daily habit**.
 - ☕ **Java & Spring ecosystem** → building robust back-end services  
 - ☁️ **AWS** → deploying apps on EC2, S3, DynamoDB, SQS and more  
 - 🏗️ **System Design** → scalability, resilience, and performance  
-- ⚙️ **Software Engineering** → clean architecture & best practices  
+- ⚙️ **Software Engineering** → scalable design & best practices
 - 🧩 **Data Structures & Algorithms** → sharpening problem-solving  
 
 ---
